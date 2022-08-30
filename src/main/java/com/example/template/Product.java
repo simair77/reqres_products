@@ -14,6 +14,7 @@ public class Product {
     @Id
     @GeneratedValue
     private Long id;
+    
 
     String name;
     int price;
